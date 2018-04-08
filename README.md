@@ -1,2 +1,2 @@
 # Cpp-Primer-Exercise
-Solutions for some exercises for C++ Premier
+Solutions for some exercises for C++ Primer
